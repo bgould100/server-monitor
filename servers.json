@@ -1,0 +1,17 @@
+[
+    {
+        "name": "web-01",
+        "status": "online",
+        "cpu": 72
+    },
+    {
+        "name": "web-02",
+        "status": "offline",
+        "cpu": 0
+    },
+    {
+        "name": "api-01",
+        "status": "online",
+        "cpu": 91
+    }
+]
