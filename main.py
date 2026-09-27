@@ -11,7 +11,7 @@ onl_serv = online_servers(data)
 print(onl_serv)
 
 highest = highest_cpu(data)
-print("Highest CPU server:", highest)
+print("Highest CPU server is:", highest)
 
 count = server_count(data)
 print(f"Total servers: {count}")
